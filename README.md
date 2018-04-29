@@ -20,7 +20,7 @@ Language Checker is a powerful spelling and grammar checker in English.
 
 * **Jianqing Gao** - *gaojq@bu.edu*
 
-<img src="https://i2.imgflip.com/29btv6.gif" width="300"/> <img src="https://i2.imgflip.com/29bull.gif" width="300"/> <img src="https://i.imgflip.com/29bvla.gif" width="300"/>
+<img src="https://i2.imgflip.com/29btv6.gif" width="280"/> <img src="https://i2.imgflip.com/29bull.gif" width="280"/> <img src="https://i.imgflip.com/29bvla.gif" width="280"/>
 
 
 ## Implementation
