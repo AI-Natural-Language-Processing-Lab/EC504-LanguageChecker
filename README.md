@@ -182,9 +182,7 @@ Explanation examples:  NN >> Noun, singular or mass, VBZ >> Verb, 3rd person sin
 ```
 
 
-## Work Breakdown
-
-### References
+## References
 
 * [Rule-Based Grammar Checker](http://www.danielnaber.de/languagetool/download/style_and_grammar_checker.pdf)
 
