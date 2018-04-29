@@ -1,6 +1,7 @@
 # Language Checker
 
 * **GUI_DEMO/Check Detail in Graphical User Intreafce Folder**
+
 <img src="https://i2.imgflip.com/29btv6.gif" width="280"/> <img src="https://i2.imgflip.com/29bull.gif" width="280"/> <img src="https://i.imgflip.com/29bvla.gif" width="280"/>
 
 Language Checker is a powerful spelling and grammar checker in English.
