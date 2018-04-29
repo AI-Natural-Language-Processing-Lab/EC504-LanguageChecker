@@ -21,6 +21,8 @@ Language Checker is a powerful spelling and grammar checker in English.
 * **Jianqing Gao** - *gaojq@bu.edu*
 
 
+https://i2.imgflip.com/29btpt.gif
+
 
 ## Implementation
 
