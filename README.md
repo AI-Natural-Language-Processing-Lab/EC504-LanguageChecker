@@ -20,10 +20,9 @@ Language Checker is a powerful spelling and grammar checker in English.
 
 * **Jianqing Gao** - *gaojq@bu.edu*
 
-
-<img src="https://i2.imgflip.com/29btv6.gif" width="140" height="140" />
-<img src="https://i2.imgflip.com/29bull.gif" width="140" height="140" />
-<img src="https://i.imgflip.com/29bvla.gif" width="140" height="140" />
+![](https://i2.imgflip.com/29btv6.gif | width=100)
+![](https://i2.imgflip.com/29bull.gif | width=100)
+![](https://i.imgflip.com/29bvla.gif | width=100)
 
 
 ## Implementation
