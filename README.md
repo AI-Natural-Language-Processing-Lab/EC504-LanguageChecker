@@ -21,9 +21,9 @@ Language Checker is a powerful spelling and grammar checker in English.
 * **Jianqing Gao** - *gaojq@bu.edu*
 
 
-![If you see this, means GIF URL go Bad](https://i2.imgflip.com/29btv6.gif)
-![If you see this, means GIF URL go Bad](https://i2.imgflip.com/29bull.gif)
-![If you see this, means GIF URL go Bad](https://i.imgflip.com/29bvla.gif)
+<img src="https://i2.imgflip.com/29btv6.gif" width="140" height="140" />
+<img src="https://i2.imgflip.com/29bull.gif" width="140" height="140" />
+<img src="https://i.imgflip.com/29bvla.gif" width="140" height="140" />
 
 
 ## Implementation
