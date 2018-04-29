@@ -16,17 +16,21 @@
 
 
 
-## Group Members （Group 6)
+## Contact Info
+
+If you have any questions about GUI or Android Client, please contact:
 
 * **Jiangyu Wang** - *jiangyu@bu.edu*
 
+For Command Line interface and N-Gram Model, RNN, Algorithm related object
+
 * **Mengyu Hang** - *myhang@bu.edu*
+
+For Web Scrapper, Database related object
 
 * **You Han** - *yhan94@bu.edu*
 
 * **Yaqin Huang** - *yaqinh@bu.edu*
-
-* **Jianqing Gao** - *gaojq@bu.edu*
 
 
 ## Implementation
