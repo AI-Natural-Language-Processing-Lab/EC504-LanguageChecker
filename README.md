@@ -200,7 +200,7 @@ Explanation examples:  NN >> Noun, singular or mass, VBZ >> Verb, 3rd person sin
 
 ## Course
 
-EC504 Course Project
+EC504 Advanced Data Structure Course Project
 
 
 
