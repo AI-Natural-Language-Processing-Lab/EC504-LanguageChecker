@@ -200,55 +200,6 @@ Explanation examples:  NN >> Noun, singular or mass, VBZ >> Verb, 3rd person sin
 
 
 
-
-* **Mengyu Hang** - *Sign: Mengyu Hang*
-
-    * Implemented spelling checking and correction with Jiangyu Wang
-
-    * Built the Bigram Model and implemented phrase checking
-
-    * Built the N-gram Model and implemented grammar checking
-
-    * Developed Command-line User Interface with Jianqing Gao
-
-* **You Han** - *Sign: You Han*
-
-    * Scraping around 11GB text from URLs
-
-    * Cleaned the raw text for modeling and store the cleaned text
-
-    * Implemented Part-Of-Speech Tagging for the text
-
-    * Implemented microphone input and speech recognition
-
-* **Jiangyu Wang** - *Sign: Jiangyu Wang*
-
-    * Implemented spelling checking and correction with Mengyu Hang
-
-    * Developed the Android Client and integrated the checker into it
-
-* **Yaqin Huang** - *Sign: Yaqin Huang*
-
-    * Collecting URLs for scraping
-
-    * Implemented Graphical User Interface
-
-    * Integrated the checker and speech input into GUI
-
-* **Jianqing Gao** - *Sign: Jiangqing Gao*
-
-    * Developed Command-line User Interface with Mengyu Hang
-
-    * Improved the checking performance for Command-line User Interface such as the checking speed
-
-
-
-## Jira
-
-EC504ProjectGroup6
-
-
-
 ## Course
 
 EC504 Course Project
