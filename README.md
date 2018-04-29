@@ -1,5 +1,8 @@
 # Language Checker
 
+* **GUI_DEMO/Check Detail in Graphical User Intreafce Folder**
+<img src="https://i2.imgflip.com/29btv6.gif" width="280"/> <img src="https://i2.imgflip.com/29bull.gif" width="280"/> <img src="https://i.imgflip.com/29bvla.gif" width="280"/>
+
 Language Checker is a powerful spelling and grammar checker in English.
 
 * **What's the Problem** -- Natural Language Processing (NPL) is a complicate and popular problem in recent years. It used to be difficult to solve or even approach in the past. Also, people living in different regions have different language style even though they speak the same language. So it can not be simplified into several constant grammar rules. Is there any model that could fit all the language’s features? We were not sure. But nowadays with the help of computer programming,  it is possible to use programming algorithms and data structures to help solve or at least approach this problem. One of the popular topics in the NPL is about checking spelling and grammar in the text. Given a sentence, could the checker smart enough to find all possible spelling error and grammar error in the sentence? Some great techniques and methodologies have been invented to solve this problem, include N-Grams, Part-Of-Speech Tagging, etc. We proposed and implemented a English language checker that is able to check the possible spelling and grammar error and support voice input.
@@ -19,8 +22,6 @@ Language Checker is a powerful spelling and grammar checker in English.
 * **Yaqin Huang** - *yaqinh@bu.edu*
 
 * **Jianqing Gao** - *gaojq@bu.edu*
-
-<img src="https://i2.imgflip.com/29btv6.gif" width="280"/> <img src="https://i2.imgflip.com/29bull.gif" width="280"/> <img src="https://i.imgflip.com/29bvla.gif" width="280"/>
 
 
 ## Implementation
