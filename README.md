@@ -10,11 +10,11 @@ Language Checker is a powerful spelling and grammar checker in English.
 
 ## Group Members （Group 6)
 
+* **Jiangyu Wang** - *jiangyu@bu.edu*
+
 * **Mengyu Hang** - *myhang@bu.edu*
 
 * **You Han** - *yhan94@bu.edu*
-
-* **Jiangyu Wang** - *jiangyu@bu.edu*
 
 * **Yaqin Huang** - *yaqinh@bu.edu*
 
