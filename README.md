@@ -6,7 +6,7 @@
 
 * **Android Client_DEMO/Check Detail in Android Client Folder**
 
-<img src="https://i2.imgflip.com/29bww2.gif" width="280" height="380"/> <img src="https://i2.imgflip.com/29bx24.gif" width="280"/> <img src="https://i2.imgflip.com/29bx5s.gif" width="280"/>
+<img src="https://i2.imgflip.com/29bww2.gif" width="280"/> <img src="https://i2.imgflip.com/29bx24.gif" width="280"/> <img src="https://i2.imgflip.com/29bx5s.gif" width="280"/>
 
 Language Checker is a powerful spelling and grammar checker in English.
 
