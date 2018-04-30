@@ -6,7 +6,7 @@
 
 * **Android Client_DEMO/Check Detail in Android Client Folder**
 
-<img src="https://i2.imgflip.com/29bww2.gif" width="280"/> <img src="https://i2.imgflip.com/29bx24.gif" width="280"/> <img src="https://i2.imgflip.com/29bx5s.gif" width="280"/>
+<img src="https://user-images.githubusercontent.com/22137277/39412849-536bff34-4bf0-11e8-821d-6ebbff5a3309.gif" width="280"/> <img src="https://user-images.githubusercontent.com/22137277/39412848-535ba512-4bf0-11e8-9df5-bdf0963c0ed5.gif" width="280"/> <img src="https://user-images.githubusercontent.com/22137277/39412847-534bd4ac-4bf0-11e8-828b-5526c0a9ce5d.gif" width="280"/>
 
 ## It is a powerful spelling and grammar checker in English.
 
