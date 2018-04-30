@@ -2,11 +2,7 @@
 
 * **GUI_DEMO/Check Detail in Graphical User Intreafce Folder**
 
-<img src="https://user-images.githubusercontent.com/22137277/39412717-f6ae379a-4bee-11e8-8c95-cece84ef8be7.gif" width="280"/> <img src="https://user-images.githubusercontent.com/22137277/39412809-df15be90-4bef-11e8-8813-ebc7c8a5c35c.gif" width="280"/> <img src="" width="280"/>
-
-
-
-
+<img src="https://user-images.githubusercontent.com/22137277/39412717-f6ae379a-4bee-11e8-8c95-cece84ef8be7.gif" width="280"/> <img src="https://user-images.githubusercontent.com/22137277/39412809-df15be90-4bef-11e8-8813-ebc7c8a5c35c.gif" width="280"/> <img src="https://user-images.githubusercontent.com/22137277/39412834-1dbe5ada-4bf0-11e8-8cab-fde0f8fd6306.gif" width="280"/>
 
 * **Android Client_DEMO/Check Detail in Android Client Folder**
 
