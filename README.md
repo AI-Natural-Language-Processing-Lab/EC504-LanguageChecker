@@ -2,7 +2,8 @@
 
 * **GUI_DEMO/Check Detail in Graphical User Intreafce Folder**
 
-<img src="https://i2.imgflip.com/29btv6.gif" width="280"/> <img src="https://i2.imgflip.com/29bull.gif" width="280"/> <img src="https://i.imgflip.com/29bvla.gif" width="280"/>
+<img src="https://user-images.githubusercontent.com/22137277/39412717-f6ae379a-4bee-11e8-8c95-cece84ef8be7.gif"/> <img src="https://i2.imgflip.com/29bull.gif" width="280"/> <img src="https://i.imgflip.com/29bvla.gif" width="280"/>
+
 
 * **Android Client_DEMO/Check Detail in Android Client Folder**
 
